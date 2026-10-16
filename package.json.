@@ -1,0 +1,14 @@
+
+{
+  "name": "orbit-support",
+  "version": "1.0.0",
+  "description": "Assistente de IA Orbit para Telegram",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.66.0",
+    "dotenv": "^16.4.7"
+  }
+}
